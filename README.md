@@ -48,25 +48,24 @@ Steps to Reproduce:
 
 Clone the repository:
 
+https://github.com/Roshani-Analyst/Zomata-Sales-Customer-Analysis/blob/main/Zomato%20Sales%20And%20Customer%20Analysis.pdf
 
-
-Open the SQL scripts from the SQL folder.
-Load your database with the Zomato dataset (make sure you have a relevant dataset).
-Run the SQL queries from the provided scripts to generate insights on sales, customers, and membership.
 Key Insights
+
 Top Selling Products: Identified the products driving the most revenue.
+
 Customer Demographics: Discovered which demographic groups are the most active users.
+
 Impact of Zomato Gold: Assessed the effect of memberships on increasing purchase frequency and overall sales.
+
 Visual Representation
-For a detailed breakdown of findings, refer to the PDF presentation, which includes charts and visual summaries of the analysis.
+
+For a detailed breakdown of findings, refer to the PDF presentation, which includes the analysis.
 
 Conclusion
+
 This project provides a comprehensive view of Zomato's sales trends and customer behavior. It highlights areas of opportunity for targeted marketing, operational improvements, and growth strategies to maximize customer satisfaction and business profitability.
 
 Contact
-For any questions or collaboration, feel free to reach out via LinkedIn or email at your.email@example.com.
 
-Customize the README:
-Key Insights: Add specifics based on what’s presented in the PDF regarding sales trends, customer engagement, and the impact of Zomato Gold.
-Contact Info: Replace placeholders with your actual LinkedIn and email.
-This structure will give
+For any questions or collaboration, feel free to reach out via https://www.linkedin.com/roshanianalyst or email at roshaniaade412@gmail.com
